@@ -1,16 +1,6 @@
-# visibility_test
+# Hide or Show Flutter Widget Visibility
+## Using Simple State Management
+## Preview
 
-A new Flutter project.
+<img src='https://user-images.githubusercontent.com/78100508/175035829-7d1ae33e-25e1-46de-a572-31e9e07532c8.gif'>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
